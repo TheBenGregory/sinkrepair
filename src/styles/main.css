@@ -1,11 +1,20 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 @import "details.css";
+
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+@import "details.css";
+
 /*Typography
 --------------------------------------------------------------*/
 body {
 	background-color: #23272D;
+
 	color: rgb(97, 96, 96);
 	align-content: center;}
+
+	color: rgb(97, 96, 96);}
+
 button,
 input,
 select,

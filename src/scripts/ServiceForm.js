@@ -21,6 +21,7 @@ export const ServiceForm = () => {
             <label class="label" for="serviceDate">Date needed</label>
             <input type="date" name="serviceDate" class="input" />
         </div>
+
         <div class="requestButton">
         <button class="button" id="submitRequest">Submit Request</button>
         </div>
@@ -28,3 +29,11 @@ export const ServiceForm = () => {
 
     return html
 }
+
+
+        <button class="button" id="submitRequest">Submit Request</button>
+    `
+
+    return html
+}
+

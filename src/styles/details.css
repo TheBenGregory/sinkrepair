@@ -1,3 +1,4 @@
+
 .field {
     display: flex;
     padding-left: 25%;
@@ -18,4 +19,8 @@
     background-color: rgb(82, 24, 24);
     color: lightgoldenrodyellow;
     font-size: 1rem;
+
+.wrapper {
+    flex-direction: column
+
 }

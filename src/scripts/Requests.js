@@ -21,7 +21,15 @@ export const Requests = () => {
     ${
         requests.map(listItemsArray).join("")
     }
+
         </ul > `
    
     return html
 }
+
+
+        </ul > `
+   
+    return html
+}
+
