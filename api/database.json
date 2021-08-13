@@ -1,12 +1,41 @@
 {
-    "plumbers": [],
-    "completions": [],
-    "requests": [{
-        "id": 1,
-        "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
-        "address": "34445 Bianka Ports",
-        "budget": 400,
-        "neededBy": "2021-08-27"
+  "plumbers": [],
+  "completions": [],
+  "requests": [
+    {
+      "id": 2,
+      "description": "Sink needs fixed.",
+      "address": "3677 Jaden Squares",
+      "budget": 600,
+      "neededBy": "2021-08-26 "
+    },
+    {
+      "description": "Toilet exploded and injured the neighbors turtle",
+      "address": "612 Wharf Avenue",
+      "budget": "45",
+      "neededBy": "2021-08-20",
+      "id": 4
+    },
+    {
+      "description": "Burst pipe in the RV",
+      "address": "143 Shady Acres",
+      "budget": "45",
+      "neededBy": "2021-08-21",
+      "id": 16
+    },
+    {
+      "description": "Help! Broken water main!",
+      "address": "345345 Krinkle Lane",
+      "budget": "33",
+      "neededBy": "2021-10-30",
+      "id": 19
+    },
+    {
+      "description": "Water coming from ceiling ",
+      "address": "123 Maple",
+      "budget": "677",
+      "neededBy": "2021-08-31",
+      "id": 20
     }
-    ]
+  ]
 }
