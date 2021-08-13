@@ -1,8 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+@import "details.css";
 
 /*Typography
 --------------------------------------------------------------*/
-body,
+body {
+	background-color: #23272D;
+	color: rgb(97, 96, 96);}
 button,
 input,
 select,
