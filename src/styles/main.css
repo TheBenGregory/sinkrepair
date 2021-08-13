@@ -1,20 +1,29 @@
-@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import "details.css";
 /*Typography
 --------------------------------------------------------------*/
-body,
+body {
+	background-color: #23272D;
+	color: rgb(97, 96, 96);
+	align-content: center;}
 button,
 input,
 select,
 textarea {
 	color: #404040;
-	font-family: "Comfortaa", Arial, sans-serif;
+	font-family: "Roboto", 
 	font-size: 14px;
 	line-height: 1.5;
+	
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: "Patua One", serif;
+  font-family: "Roboto", 
   letter-spacing: 2px;
+  display: flex;
+  padding-left: 35%;
+  padding-right: 35%;
+  padding-top: 2%;
+  flex-direction: column;
 }
 
