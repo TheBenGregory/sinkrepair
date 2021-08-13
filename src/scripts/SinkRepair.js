@@ -7,19 +7,19 @@ export const SinkRepair = () => {
     return `
         <h1>Maude and Merle's Sink Repair</h1>
 
-        <div id = forms>
+        <div id="forms">
         <section class="serviceForm">
         ${ServiceForm()}
         </section>
         </div>
 
-        <section class="serviceForm">
-        ${ServiceForm()}
-        </section>
+       
 
         <section class="serviceRequests">
             <h2>Service Requests</h2>
+            <div class="service">
             ${Requests()}
+            </div>
         </section>
     `
 }

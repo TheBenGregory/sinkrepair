@@ -5,6 +5,7 @@
     padding-right: 25%;
     padding-top: 2%;
     flex-direction: column;
+    text-size-adjust: 5;
 }
 .requestButton {
     display: flex;
@@ -17,10 +18,28 @@
     margin: 1rem 0 2rem 2rem;
     padding: 0.5rem;
     background-color: rgb(82, 24, 24);
-    color: lightgoldenrodyellow;
+    color: rgb(106, 106, 56);
     font-size: 1rem;
+}
+.label {
+    font-size: x-large;
+}
 
-.wrapper {
-    flex-direction: column
+.service {
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    flex-direction: inherit;
+    border: solid;
+    justify-content: space-around;
+    font-size: x-large;
+    
+}
 
+.request__delete {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-content: flex-end;
 }
